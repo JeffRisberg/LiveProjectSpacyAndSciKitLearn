@@ -1,5 +1,8 @@
 ## Milestone 1
 
-SpaCy and SciKit Learn
+SpaCy
 
+## Milestone 2
+
+SpaCy and SciKit-learn
 
