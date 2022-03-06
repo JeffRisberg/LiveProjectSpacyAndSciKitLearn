@@ -1,5 +1,5 @@
 ## Milestone 1
 
-Elasticsearch and BERT
+SpaCy and SciKit Learn
 
 
